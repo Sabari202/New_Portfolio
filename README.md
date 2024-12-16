@@ -5,17 +5,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">Himanshu Personal Portfolio.</h3>
+  <h3 align="center">Sabareeswar Personal Portfolio.</h3>
 
   <p align="center">
     A clean, beautiful, and responsive Personal Portfolio Website!!!
-    <br/>
-    <br/>
-    <a href="https://github.com/Himanshuchaurasia9/Himanshu.github.io"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://himanshuchaurasia9.github.io/Himanshu.github.io/">View Demo</a>
-    .
   </p>
 </p>
 
