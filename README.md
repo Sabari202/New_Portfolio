@@ -23,7 +23,7 @@
 
 ## About The Project
 
-![Screen Shot](https://drive.google.com/file/d/1aTLFV2jZ_jF-3Yfcna4ixfaVxfv_nFmU/view?usp=sharing)
+![Screen Shot](images/Portfolio_SS.jpeg)
 
 A clean, beautiful and responsive portfolio website!!!
 It contains all the important section which is necessary for a portfolio website.
