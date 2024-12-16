@@ -23,7 +23,7 @@
 
 ## About The Project
 
-![Screen Shot]([https://drive.google.com/uc?export=view&id=1mWkeA4T6g56rkNNNb2-72ANcVJPPlaT5](https://drive.google.com/file/d/1aTLFV2jZ_jF-3Yfcna4ixfaVxfv_nFmU/view?usp=drive_link)
+![Screen Shot](https://drive.google.com/uc?export=view&id=1mWkeA4T6g56rkNNNb2-72ANcVJPPlaT5](https://drive.google.com/file/d/1aTLFV2jZ_jF-3Yfcna4ixfaVxfv_nFmU/view?usp=drive_link)
 
 A clean, beautiful and responsive portfolio website!!!
 It contains all the important section which is necessary for a portfolio website.
@@ -42,7 +42,7 @@ It contains all the important section which is necessary for a portfolio website
 
 ## Authors
 
-* **Sabareeswar Senthilvel** - *Masters Graduate* - [Himanshu Chaurasia](https://github.com/Himanshuchaurasia9) - *Personal Portfolio*
+* **Sabareeswar Senthilvel** - *Masters Graduate* - [Sabareeswar Senthilvel](https://github.com/Sabari202) - *Personal Portfolio*
 
 ## Technologies Used
 
