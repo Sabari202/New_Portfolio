@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;800;900&family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --bg-color:#2a2a2a;
+    --second-bg-color:#202020;
+    --text-white:#fff;
+    --text-gray:#ccc;
+    --main-color:#FF0032;
+    --big-font:5rem;
+    --h2-font:3rem;
+    --p-font:1.1rem;
+    
+}
+
+.main-text{
+    color: var(--main-color);
+}
+.text-white{
+    color: var(--text-white);
+}
+.text-gray{
+    color: var(--text-gray);
+}
+
+.big{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: var(--bg-color);
+    color: var(--text-white);
+    overflow-x:hidden;
+}
+/* SCROLLBAR */
+::-webkit-scrollbar{
+    width: 12px;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(transparent,var(--main-color));
+    border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: linear-gradient(transparent,var(--text-white));
+}
+
+/* SELECTION */
+span::selection{
+    color: var(--text-white);
+    /* background: var(--text-white); */
+}
+h1::selection,h2::selection,h4::selection,h5::selection{
+    color: var(--main-color);
+}
+p::selection{
+    color: var(--main-color);
+}
+li::selection{
+    color: var(--main-color);
+}
+.logo::selection{
+    color: var(--main-color);
+}
